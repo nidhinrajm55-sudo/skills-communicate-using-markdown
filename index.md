@@ -1,15 +1,15 @@
-# This is an `<h1>` header, which is the largest
+# Communicate Using Markdown
 
-## This is an `<h2>` header
+## Introduction to Markdown
 
-###### This is an `<h6>` header, which is the smallest
+###### Hello guys
 
- 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-```
+<img width="500" height="427" alt="image" src="https://github.com/user-attachments/assets/70467194-9420-4184-82e5-b0b1d7b23218" />
+
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+List of things to do
 
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
@@ -40,6 +40,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 
 Add multiple markdown headers to index.md
+
 
 
 
