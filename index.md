@@ -25,22 +25,3 @@ List of things to do
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Add multiple markdown headers to index.md
-
-
-
-
